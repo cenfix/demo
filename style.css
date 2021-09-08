@@ -1,0 +1,12 @@
+div
+{
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin: 5px;
+}
+.div1{background: #f40}
+.div2{background: #080}
+.div3{background: #f00}
+.div4{background: #00f}
+#color  {background: #fff;border: 1px solid #000}
